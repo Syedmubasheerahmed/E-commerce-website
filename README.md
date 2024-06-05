@@ -8,6 +8,8 @@ Installation
 1. Clone this repository to your local machine.
 2. Open the project folder in Notepad++.
 3. Launch the `index.html` file in your web browser.
+4. username:mubasheer
+5. password:mubasheer
 
 Usage
 - Visit the website to explore available products.
